@@ -9,8 +9,8 @@
 
 <channel>
 	<title>hottipinvestments.com</title>
-	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://jay13jay.github.io/hti/feed/" rel="self" type="application/rss+xml" />
+	<link>https://jay13jay.github.io/hti/</link>
 	<description></description>
 	<lastBuildDate>Fri, 01 Sep 2023 01:44:00 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,28 +21,28 @@
 	<generator>https://wordpress.org/?v=6.3.1</generator>
 
 <image>
-	<url>/wp-content/uploads/2023/10/cropped-logo-transparent-png-2-1-e1696356717861-32x32.png</url>
+	<url>https://jay13jay.github.io/hti/wp-content/uploads/2023/10/cropped-logo-transparent-png-2-1-e1696356717861-32x32.png</url>
 	<title>hottipinvestments.com</title>
-	<link>/</link>
+	<link>https://jay13jay.github.io/hti/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Hello world!</title>
-		<link>/hello-world/</link>
-					<comments>/hello-world/#comments</comments>
+		<link>https://jay13jay.github.io/hti/hello-world/</link>
+					<comments>https://jay13jay.github.io/hti/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 01 Sep 2023 01:44:00 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=1</guid>
+		<guid isPermaLink="false">https://jay13jay.github.io/hti/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://jay13jay.github.io/hti/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
